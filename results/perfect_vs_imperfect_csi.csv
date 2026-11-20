@@ -1,0 +1,5 @@
+Channel,CSI_Type,OutageProbability,OverallBER,AverageBitsPerSymbol,SpectralEfficiency,AverageThroughput_bps,EstimatedCorrectThroughput_bps
+Rayleigh,Perfect CSI,0.0478,7.15883668903803e-05,3.129,2.5032,3129000,3128776
+Rayleigh,Imperfect CSI,0.0464,0.00213417737625652,3.1436,2.51488,3143600,3136891
+Rician,Perfect CSI,0.0058,7.52503734853096e-05,3.6146,2.89168,3614600,3614328
+Rician,Imperfect CSI,0.0074,0.0017746853689638,3.6074,2.88592,3607400,3600998

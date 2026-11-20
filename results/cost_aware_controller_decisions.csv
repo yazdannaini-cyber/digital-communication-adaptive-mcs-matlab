@@ -1,0 +1,11 @@
+Channel,EbN0,TargetPER,MaxDelay_ms,SelectedDepth,TargetMet,DelayMet,SelectedPERUpper95,ProcessingTime_ms,FirstColumnReady_ms,Buffer_bits,Buffer_bytes,CostScore_ms,Reason
+Rayleigh,4,0.2,2,4,0,1,0.94985,0.00716326289000244,1.573,1573,197,1.58016326289,QoS not met by any latency-feasible depth; best PER bound selected.
+Rayleigh,6,0.2,2,16,0,1,0.83665,0.00251055475954722,1.966,1966,246,1.96851055475955,QoS not met by any latency-feasible depth; best PER bound selected.
+Rayleigh,8,0.2,2,16,0,1,0.68784,0.00251055475954722,1.966,1966,246,1.96851055475955,QoS not met by any latency-feasible depth; best PER bound selected.
+Rayleigh,10,0.2,2,16,0,1,0.54161,0.00251055475954722,1.966,1966,246,1.96851055475955,QoS not met by any latency-feasible depth; best PER bound selected.
+Rayleigh,12,0.2,2,16,0,1,0.37804,0.00251055475954722,1.966,1966,246,1.96851055475955,QoS not met by any latency-feasible depth; best PER bound selected.
+Rician,4,0.2,2,16,0,1,0.85379,0.00251055475954722,1.966,1966,246,1.96851055475955,QoS not met by any latency-feasible depth; best PER bound selected.
+Rician,6,0.2,2,16,0,1,0.56434,0.00251055475954722,1.966,1966,246,1.96851055475955,QoS not met by any latency-feasible depth; best PER bound selected.
+Rician,8,0.2,2,16,0,1,0.31467,0.00251055475954722,1.966,1966,246,1.96851055475955,QoS not met by any latency-feasible depth; best PER bound selected.
+Rician,10,0.2,2,4,1,1,0.17473,0.00716326289000244,1.573,1573,197,1.58016326289,QoS and latency satisfied; lowest-cost feasible depth selected.
+Rician,12,0.2,2,4,1,1,0.089513,0.00716326289000244,1.573,1573,197,1.58016326289,QoS and latency satisfied; lowest-cost feasible depth selected.

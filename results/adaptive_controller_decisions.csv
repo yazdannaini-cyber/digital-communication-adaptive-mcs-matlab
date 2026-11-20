@@ -1,0 +1,11 @@
+Channel,EbN0,TargetPER,SelectedDepth,TargetMet,Depth4Upper95,Depth16Upper95,Reason
+Rayleigh,4,0.2,16,0,0.94985,0.94985,Neither depth satisfies the target; Depth 16 selected as reliability-oriented fallback.
+Rayleigh,6,0.2,16,0,0.84211,0.83665,Neither depth satisfies the target; Depth 16 selected as reliability-oriented fallback.
+Rayleigh,8,0.2,16,0,0.69812,0.68784,Neither depth satisfies the target; Depth 16 selected as reliability-oriented fallback.
+Rayleigh,10,0.2,16,0,0.55059,0.54161,Neither depth satisfies the target; Depth 16 selected as reliability-oriented fallback.
+Rayleigh,12,0.2,16,0,0.39113,0.37804,Neither depth satisfies the target; Depth 16 selected as reliability-oriented fallback.
+Rician,4,0.2,16,0,0.86546,0.85379,Neither depth satisfies the target; Depth 16 selected as reliability-oriented fallback.
+Rician,6,0.2,16,0,0.58904,0.56434,Neither depth satisfies the target; Depth 16 selected as reliability-oriented fallback.
+Rician,8,0.2,16,0,0.32781,0.31467,Neither depth satisfies the target; Depth 16 selected as reliability-oriented fallback.
+Rician,10,0.2,4,1,0.17473,0.16981,Depth 4 satisfies the target; minimum supported depth selected.
+Rician,12,0.2,4,1,0.089513,0.085553,Depth 4 satisfies the target; minimum supported depth selected.

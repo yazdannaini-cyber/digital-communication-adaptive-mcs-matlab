@@ -1,0 +1,4 @@
+Modulation,BitsPerSymbol,SymbolRate,GrossBitRate,RollOff,SpectralEfficiency
+BPSK,1,1000000,1000000,0.25,0.8
+QPSK,2,1000000,2000000,0.25,1.6
+16-QAM,4,1000000,4000000,0.25,3.2

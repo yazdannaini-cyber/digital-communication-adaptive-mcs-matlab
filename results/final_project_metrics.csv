@@ -1,0 +1,9 @@
+Metric,Value
+Calibration records,108
+Independent validation records,108
+Boundary selected profiles,9
+Boundary QoS successes,9
+Paired statistical comparisons,18
+Significant comparisons after Holm,18
+Target PER,0.2
+Boundary packets per profile,3000

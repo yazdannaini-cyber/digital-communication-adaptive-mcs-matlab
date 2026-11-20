@@ -1,0 +1,26 @@
+# MATLAB autosave and editor artifacts
+*.asv
+*.m~
+*.mlx.autosave
+
+# MATLAB/Simulink generated folders and cache
+slprj/
+codegen/
+*.slxc
+
+# Compiled binaries
+*.mex*
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Operating system artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE folders
+.vscode/
+.idea/

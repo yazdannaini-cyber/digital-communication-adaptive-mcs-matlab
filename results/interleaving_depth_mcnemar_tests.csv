@@ -1,0 +1,29 @@
+CandidateSystem,Channel,EbN0,PER_Difference_vs_4Block,BaselineFail_CandidateSuccess,BaselineSuccess_CandidateFail,McNemar_PValue,Conclusion,McNemar_HolmPValue,HolmConclusion
+4-Block + Depth-4 Interleaving,Rayleigh,0,0,0,0,1,No significant paired difference,1,No significant difference after Holm correction
+4-Block + Depth-16 Interleaving,Rayleigh,0,0,0,0,1,No significant paired difference,1,No significant difference after Holm correction
+4-Block + Depth-4 Interleaving,Rayleigh,2,0,2,2,1,No significant paired difference,1,No significant difference after Holm correction
+4-Block + Depth-16 Interleaving,Rayleigh,2,0,1,1,1,No significant paired difference,1,No significant difference after Holm correction
+4-Block + Depth-4 Interleaving,Rayleigh,4,-0.0119999999999999,24,12,0.0652453352231535,No significant paired difference,1,No significant difference after Holm correction
+4-Block + Depth-16 Interleaving,Rayleigh,4,-0.003,17,14,0.720100131817163,No significant paired difference,1,No significant difference after Holm correction
+4-Block + Depth-4 Interleaving,Rayleigh,6,-0.00600000000000001,29,23,0.488455669379898,No significant paired difference,1,No significant difference after Holm correction
+4-Block + Depth-16 Interleaving,Rayleigh,6,-0.018,38,20,0.0247460358424416,Significant PER improvement,0.618650896061039,No significant difference after Holm correction
+4-Block + Depth-4 Interleaving,Rayleigh,8,0.00900000000000001,27,36,0.313503053296444,No significant paired difference,1,No significant difference after Holm correction
+4-Block + Depth-16 Interleaving,Rayleigh,8,-0.0209999999999999,47,26,0.0186177514331943,Significant PER improvement,0.484061537263051,No significant difference after Holm correction
+4-Block + Depth-4 Interleaving,Rayleigh,10,0.00600000000000001,42,48,0.59841171823351,No significant paired difference,1,No significant difference after Holm correction
+4-Block + Depth-16 Interleaving,Rayleigh,10,-0.014,55,41,0.184285872880367,No significant paired difference,1,No significant difference after Holm correction
+4-Block + Depth-4 Interleaving,Rayleigh,12,-0.00900000000000001,34,25,0.297595208284426,No significant paired difference,1,No significant difference after Holm correction
+4-Block + Depth-16 Interleaving,Rayleigh,12,-0.013,37,24,0.123731442538091,No significant paired difference,1,No significant difference after Holm correction
+4-Block + Depth-4 Interleaving,Rician,0,0,0,0,1,No significant paired difference,1,No significant difference after Holm correction
+4-Block + Depth-16 Interleaving,Rician,0,0,0,0,1,No significant paired difference,1,No significant difference after Holm correction
+4-Block + Depth-4 Interleaving,Rician,2,0,6,6,1,No significant paired difference,1,No significant difference after Holm correction
+4-Block + Depth-16 Interleaving,Rician,2,-0.00700000000000001,13,6,0.167068481445313,No significant paired difference,1,No significant difference after Holm correction
+4-Block + Depth-4 Interleaving,Rician,4,-0.00900000000000001,54,45,0.421523343615772,No significant paired difference,1,No significant difference after Holm correction
+4-Block + Depth-16 Interleaving,Rician,4,-0.014,58,44,0.197789863068087,No significant paired difference,1,No significant difference after Holm correction
+4-Block + Depth-4 Interleaving,Rician,6,-0.017,83,66,0.189758557906715,No significant paired difference,1,No significant difference after Holm correction
+4-Block + Depth-16 Interleaving,Rician,6,-0.0429999999999999,106,63,0.0011697855781309,Significant PER improvement,0.0327539961876651,Significant after Holm correction
+4-Block + Depth-4 Interleaving,Rician,8,-0.014,57,43,0.193347904495641,No significant paired difference,1,No significant difference after Holm correction
+4-Block + Depth-16 Interleaving,Rician,8,-0.028,67,39,0.00841699357053312,Significant PER improvement,0.227258826404394,No significant difference after Holm correction
+4-Block + Depth-4 Interleaving,Rician,10,-0.00599999999999998,36,30,0.538582775245962,No significant paired difference,1,No significant difference after Holm correction
+4-Block + Depth-16 Interleaving,Rician,10,-0.015,33,18,0.0488738923182697,Significant PER improvement,1,No significant difference after Holm correction
+4-Block + Depth-4 Interleaving,Rician,12,-0.003,18,15,0.728332480881362,No significant paired difference,1,No significant difference after Holm correction
+4-Block + Depth-16 Interleaving,Rician,12,0.001,15,16,1,No significant paired difference,1,No significant difference after Holm correction
